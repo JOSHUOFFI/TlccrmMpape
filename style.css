@@ -61,7 +61,7 @@ h1{
 }
 .rocket {
     
-    width: 200px;
+    width: 230px;
     position: absolute;
     right: 10%;
     bottom: 0;
@@ -85,3 +85,4 @@ h1{
 .abc span{
     padding-left: 6px;
 }
+
